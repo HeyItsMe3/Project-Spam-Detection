@@ -20,3 +20,6 @@ pip install scikit-learn
 
 ## dataset
  the dateset contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
+
+## deatils
+The approach is very similar to our previous tweet sentiment analysis project, check it for more information about the project.
