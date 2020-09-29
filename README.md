@@ -19,6 +19,4 @@ pip install scikit-learn
 ```
 
 ## dataset
-couldn't upload the tweet dataset as file is too big. 
-data can be downloaded from here.
-https://www.kaggle.com/kazanova/sentiment140
+ the dateset contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
